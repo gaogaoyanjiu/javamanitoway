@@ -64,9 +64,12 @@
 思考2：    
 
 
-设计模式：
+设计模式：http://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
 单例模式：http://www.runoob.com/design-pattern/singleton-pattern.html
+
+
+锁机制：悲观锁、乐观锁
 
 
 hash算法：
