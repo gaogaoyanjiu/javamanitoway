@@ -68,3 +68,9 @@
 
 单例模式：http://www.runoob.com/design-pattern/singleton-pattern.html
 
+
+hash算法：
+
+
+区块链：
+
